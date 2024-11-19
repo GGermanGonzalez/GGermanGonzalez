@@ -1,16 +1,35 @@
-## Hi there 👋
+Hola, Soy German Gonzalez 👋
 
-<!--
-**GGermanGonzalez/GGermanGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades 📚 Lenguajes de Programación 👨‍💻
 
-Here are some ideas to get you started:
+JavaScript
+TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-end 🎨
+
+HTML5
+CSS
+Bootstrap
+Tailwind css
+React
+Redux
+NextJS
+
+Back-end 🛠️
+
+Node.js
+Express
+Mongoose
+TypeORM
+
+Base de Datos 🛠️
+
+PostgreSQL
+MongoDB
+
+Testing 🧪
+
+Jest
+Jasmine
+
+Sobre mi 💬 Soy un apasionado del desarrollo Front-end 💻. Me entusiasma la idea de colaborar en equipo 🤝 para resolver problemas complejos y aprender de cada experiencia 📚. Actualmente, estoy enfocado en mejorar mis habilidades a través de proyectos que desafían mis conocimientos 🚀.
