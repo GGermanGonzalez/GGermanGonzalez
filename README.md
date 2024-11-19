@@ -35,5 +35,5 @@
 
 ---
 
-[🔗 GitHub](https://github.com/GGermanGonzalez) | [💬 LinkedIn](https://www.linkedin.com/in/german-gonzalez)
+[🔗 GitHub](https://github.com/GGermanGonzalez) | [💬 LinkedIn](https://www.linkedin.com/in/german-gonzalez-a292822b2/)
 
